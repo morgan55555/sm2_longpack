@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Longpack
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LongpackPacker	KEYWORD1
+LongpackReader	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+CalcChecksum	KEYWORD2
+pack	KEYWORD2
+clean	KEYWORD2
+available	KEYWORD2
+read	KEYWORD2
+peek	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_SYS_CMD_LEN	LITERAL1
+
+MAGIC_PART_1	LITERAL1
+MAGIC_PART_2	LITERAL1
+
+E_TRUE	LITERAL1
+E_FALSE	LITERAL1
+E_DOING	LITERAL1
